@@ -15,3 +15,15 @@ https://arxiv.org/pdf/1802.02611.pdf
 https://www.cityscapes-dataset.comhttps://www.cityscapes-dataset.comhttps://www.cityscapes-dataset.com
 * ImageNet
 http://www.image-net.org/
+
+## 実行手順
+
+1. 以下コマンド実行
+```
+cd green_vegetation_v2
+jupyter notebook
+```
+2. 上記コマンド実行後、表示されるリンクにブラウザでアクセス
+3. imagesフォルダ以下にセグメントしたい画像を配置
+4. DeepLab.ipynbを開く
+5. 必要に応じて編集し、初めから実行。
